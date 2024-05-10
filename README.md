@@ -1,4 +1,3 @@
-```
 # Lunch Bot Azure Function
 
 ## Overview
